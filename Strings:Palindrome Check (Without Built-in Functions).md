@@ -12,9 +12,20 @@ To write a Python program to check whether the string `"google"` is a **palindro
 4. Execute the program.
 
 ## 🧾 Program
+```python
+s = "google"        # assign string
 
-Add code here
+rev = s[::-1]        # reverse using slicing
 
+if s == rev:         # compare
+    print("The string is a palindrome")
+else:
+    print("The string is not a palindrome")
+
+```
 ## Output
 
+<img width="817" height="230" alt="image" src="https://github.com/user-attachments/assets/a3d4b9c0-1bd6-4b90-bceb-261555b53600" />
+
 ## Result
+The python program to check whether the string google is a palindrome or not, without using inbuild function is executed successfully and verified
