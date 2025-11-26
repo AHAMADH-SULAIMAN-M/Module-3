@@ -21,3 +21,4 @@ print("Sum of List Elements:",sum(lst))
 <img width="356" height="63" alt="image" src="https://github.com/user-attachments/assets/eaab3d6d-5ab8-46de-b0d1-42aab8b83f6c" />
 
 ## Result
+The python program to calculate the sum of all elements in a list is executed Successfully and Verified.
