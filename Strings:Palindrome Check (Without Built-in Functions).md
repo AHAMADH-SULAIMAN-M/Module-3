@@ -13,11 +13,11 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 ```python
-s = "google"        # assign string
+s = "google"        
 
-rev = s[::-1]        # reverse using slicing
+rev = s[::-1]        
 
-if s == rev:         # compare
+if s == rev:         
     print("The string is a palindrome")
 else:
     print("The string is not a palindrome")
